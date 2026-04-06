@@ -3,9 +3,9 @@
 
 > A dark-themed, responsive personal portfolio website built with pure **HTML, CSS & JavaScript** — no frameworks, no dependencies.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-f5c542?style=for-the-badge&logo=google-chrome&logoColor=black)]([(https://www.binitkumarkarn.com.np/)])
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-f5c542?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.binitkumarkarn.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binitkumarkarn-ds/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binit-kumar-karn-ds))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binit-kumar-karn-ds)
 
 ---
 
@@ -47,7 +47,7 @@ Built entirely from scratch without any CSS framework or JS library (except Emai
 ## 📁 Project Structure
 
 ```
-portfolio/
+binit-portfolio/
 │
 ├── index.html                        # Main HTML file (entire site)
 ├── photto.png                        # Profile photo
@@ -71,7 +71,7 @@ portfolio/
 git clone: https://github.com/binit-kumar-karn-ds.git
 
 # Navigate into the folder
-cd portfolio
+cd binit-portfolio
 
 # Open in browser (no build step needed)
 open index.html
