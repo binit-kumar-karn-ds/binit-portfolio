@@ -68,8 +68,7 @@ binit-portfolio/
 
 ```bash
 # Clone the repository
-git clone: https://github.com/binit-kumar-karn-ds.git
-
+git clone: (https://github.com/binit-kumar-karn-ds/binit-portfolio)
 # Navigate into the folder
 cd binit-portfolio
 
